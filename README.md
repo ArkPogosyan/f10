@@ -1,1 +1,1 @@
-# f10
+The function get_circle(radius) takes the radius of a circle as an argument and returns two values: the circumference of the circle and the area of the circle bounded by the circle.
